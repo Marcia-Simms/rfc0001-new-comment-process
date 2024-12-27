@@ -56,8 +56,8 @@ address the feedback.
 
 ### How FedRAMP will participate
 
-The FedRAMP team may interact with the public discussion repository in a
-limited manner, similar to a digital town hall, by:
+The FedRAMP team may interact with the public discussion repository in a limited
+manner, similar to a digital town hall, by:
 
 - Requesting clarification or additional information if the content of a comment
   is not clear to the FedRAMP reviewer.
