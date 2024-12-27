@@ -2,11 +2,11 @@
 
 The Federal Risk and Authorization Management Program (FedRAMP) intends to
 engage continuously and iteratively with our stakeholders. This repository will
-be used as an ongoing digital meeting place for us hear your experiences and
+be used as an ongoing digital meeting place for us to hear your experiences and
 perspectives.
 
 All FedRAMP RFCs are open to responses from the public and government, including
-representatives from cloud service providers, third party indepent assessment
+representatives from cloud service providers, third party independent assessment
 organizations, federal agencies, industry organizations, or individuals with an
 interest in cybersecurity and cloud services.
 
